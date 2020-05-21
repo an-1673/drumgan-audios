@@ -22,3 +22,26 @@ Generations using randomly created labels:
 [test_random_5634](rand-labels/sample_5634.mp3)
 [test_random_6203](rand-labels/sample_6203.mp3)
 
+U-Net baseline:
+[sample2136](baseline/tr-labels/sample2136.mp3)
+[sample2300](baseline/tr-labels/sample2300.mp3)
+[sample2441](baseline/tr-labels/sample2441.mp3)
+[sample2469](baseline/tr-labels/sample2469.mp3)
+[sample2482](baseline/tr-labels/sample2482.mp3)
+[sample2514](baseline/tr-labels/sample2514.mp3)
+
+Unconditional:
+[sample2136](unconditional/test_random_14711.mp3)
+[sample2300](unconditional/test_random_31527.mp3)
+[sample2441](unconditional/test_random_35191.mp3)
+[sample2469](unconditional/test_random_41725.mp3)
+[sample2482](unconditional/test_random_45231.mp3)
+[sample2514](unconditional/test_random_6003.mp3)
+
+interpolations:
+[sample2136](interpolations/radial-interpolation-001.mp3)
+[sample2300](interpolations/radial-interpolation-002.mp3)
+[sample2441](interpolations/radial-interpolation-003.mp3)
+[sample2469](interpolations/spherical-interpolation-004.mp3)
+[sample2482](interpolations/spherical-interpolation-005.mp3)
+[sample2514](interpolations/spherical-interpolation-006.mp3)
