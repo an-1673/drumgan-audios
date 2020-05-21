@@ -22,13 +22,21 @@ Generations using randomly created labels:
 [test_random_5634](rand-labels/sample_5634.mp3)
 [test_random_6203](rand-labels/sample_6203.mp3)
 
-U-Net baseline:
+U-Net baseline tr-labels:
 [sample2136](baseline/tr-labels/sample2136.mp3)
 [sample2300](baseline/tr-labels/sample2300.mp3)
 [sample2441](baseline/tr-labels/sample2441.mp3)
 [sample2469](baseline/tr-labels/sample2469.mp3)
 [sample2482](baseline/tr-labels/sample2482.mp3)
 [sample2514](baseline/tr-labels/sample2514.mp3)
+
+U-Net baseline rand-labels:
+[sample2136](baseline/rand-labels/sample129.mp3)
+[sample2300](baseline/tr-labels/sample237.mp3)
+[sample2441](baseline/tr-labels/sample25.mp3)
+[sample2469](baseline/tr-labels/sample40.mp3)
+[sample2482](baseline/tr-labels/sample729.mp3)
+[sample2514](baseline/tr-labels/sample79.mp3)
 
 Unconditional:
 [sample2136](unconditional/test_random_14711.mp3)
