@@ -15,10 +15,10 @@ Generations using labels froom the validation set:
 [test_random_321](val-labels/test_random_321.mp3)
 
 Generations using randomly created labels:
-[test_random_2995](rand-labels/test_random_2995.mp3)
-[test_random_2996](rand-labels/test_random_2996.mp3)
-[test_random_3410](rand-labels/test_random_3410.mp3)
-[test_random_3959](rand-labels/test_random_3959.mp3)
-[test_random_5634](rand-labels/test_random_5634.mp3)
-[test_random_6203](rand-labels/test_random_6203.mp3)
+[test_random_2995](rand-labels/sample_2995.mp3)
+[test_random_2996](rand-labels/sample_2996.mp3)
+[test_random_3410](rand-labels/sample_3410.mp3)
+[test_random_3959](rand-labels/sample_3959.mp3)
+[test_random_5634](rand-labels/sample_5634.mp3)
+[test_random_6203](rand-labels/sample_6203.mp3)
 
