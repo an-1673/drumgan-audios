@@ -60,7 +60,7 @@ interpolations:
 [spherical-interpolation-005](interpolations/spherical-interpolation-005.mp3)
 [spherical-interpolation-006](interpolations/spherical-interpolation-006.mp3)
 
-interpolations:
+wasserstein distance test:
 [high_W-distance_0](w-distance-tests/high_W-distance_0.mp3)
 [high_W-distance_0](w-distance-tests/high_W-distance_1.mp3)
 [high_W-distance_0](w-distance-tests/high_W-distance_2.mp3)
