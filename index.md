@@ -75,3 +75,11 @@ wasserstein distance test:
 [low_W-distance_0](w-distance-tests/low_W-distance_4.mp3)
 [low_W-distance_0](w-distance-tests/low_W-distance_5.mp3)
 
+
+Feature Coherence, kick:
+[k_boominess_0](feature_coherence/kick/boominess_0.mp3)
+[k_boominess_02](feature_coherence/kick/boominess_02.mp3)
+[k_boominess_05](feature_coherence/kick/boominess_05.mp3)
+[k_boominess_08](feature_coherence/kick/boominess_08.mp3)
+[k_boominess_10](feature_coherence/kick/boominess_10.mp3)
+
